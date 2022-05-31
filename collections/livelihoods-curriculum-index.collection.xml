@@ -1,0 +1,34 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Report">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11547</md:content-id>
+  <md:title>Livelihoods Curriculum Index</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>f5d9b370-bbe9-4330-a9e7-f056388c5bd9</md:uuid>
+<md:slug>livelihoods-curriculum-index</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m47178"/>
+        
+      
+    
+    
+      <col:module document="m47189"/>
+        
+      
+    
+  </col:content>
+</col:collection>
